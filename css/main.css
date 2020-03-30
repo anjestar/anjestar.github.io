@@ -85,10 +85,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://gecco-me-static.smartgslb.com/images/bg.jpg")/*tpa=https://gecco-me-static.smartgslb.com/images/bg.jpg*/;
-		background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://gecco-me-static.smartgslb.com/images/bg.jpg")/*tpa=https://gecco-me-static.smartgslb.com/images/bg.jpg*/;
-		background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://gecco-me-static.smartgslb.com/images/bg.jpg")/*tpa=https://gecco-me-static.smartgslb.com/images/bg.jpg*/;
-		background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://gecco-me-static.smartgslb.com/images/bg.jpg")/*tpa=https://gecco-me-static.smartgslb.com/images/bg.jpg*/;
+		background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("./images/bg.jpg")/*tpa=./images/bg.jpg*/;
+		background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("./images/bg.jpg")/*tpa=./images/bg.jpg*/;
+		background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("./images/bg.jpg")/*tpa=./images/bg.jpg*/;
+		background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("./images/bg.jpg")/*tpa=./images/bg.jpg*/;
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -106,10 +106,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			opacity: 0;
 			z-index: 1;
 			background-color: #ffffff;
-			background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("https://gecco-me-static.smartgslb.com/images/overlay.png")/*tpa=https://gecco-me-static.smartgslb.com/images/overlay.png*/, linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("./images/overlay.png")/*tpa=./images/overlay.png*/, linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;
 			background-position: top left,		center center;
